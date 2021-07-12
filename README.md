@@ -4,3 +4,26 @@ This repository contains partial code for the NFT Marketplace, The Vault, that I
 
 # Screenshots of the Webiste
 
+* Root Page
+
+![Root Page](./Screenshots/RootPage.png "Root Page")
+
+![Root Page2](./Screenshots/RootPage2.png "Root Page 2")
+
+* Log In Portal
+
+![Login](./Screenshots/Login.png "Login")
+
+* Home Page
+
+![Home Page](./Screenshots/HomePage.png "Home Page")
+
+![User NFTs](./Screenshots/UserNFT.png "User NFT")
+
+![NFT Market](./Screenshots/NFTMarket.png "NFT Market")
+
+![Create NFT](./Screenshots/CreateNFT.png "Create NFT")
+
+* Create NFT Page
+
+![Create NFT Page](./Screenshots/CreateNFTPage.png "Create NFT Page")
